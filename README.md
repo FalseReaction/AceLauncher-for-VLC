@@ -4,3 +4,5 @@ A small program that launches Ace Stream Engine, then asks you for an Ace Stream
 This program assumes that Ace Engine is installed in the default loction '%APPDATA%\ACEStream\engine\ace_engine.exe' and VLC (64bit) is installed in its default location 'C:\\Program Files\VideoLAN\VLC\vlc.exe'.
 
 Currently provided as is.
+
+https://github.com/FalseReaction/AceLauncher-for-VLC/releases/latest
